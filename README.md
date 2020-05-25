@@ -1,8 +1,8 @@
 # MPM
 
 ## prepare dataset
-download miniImageNet dataset from [here](https://mega.nz/#!rx0wGQyS!96sFlAr6yyv-9QQPCm5OBFbOm4XSD0t-HlmGaT5GaiE) <br>
-change the path of dataset in dataloader.py
+1) download miniImageNet dataset from [here](https://mega.nz/#!rx0wGQyS!96sFlAr6yyv-9QQPCm5OBFbOm4XSD0t-HlmGaT5GaiE) <br>
+2) set the path of dataset in dataloader.py
 
 ## miniImageNet 1-shot scenario: <br>
     python test.py

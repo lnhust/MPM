@@ -1,5 +1,5 @@
 # MPM
-
+implementation of 'Learning to Learn Adaptive Classifier-Predictor for Few Shot Learning'
 ## prepare dataset
 1) download miniImageNet dataset from [here](https://mega.nz/#!rx0wGQyS!96sFlAr6yyv-9QQPCm5OBFbOm4XSD0t-HlmGaT5GaiE) <br>
 2) set the path of dataset in dataloader.py
